@@ -16,7 +16,7 @@ int main()
         Sum += A[i];
     }
 
-    cout << Sum/N;
+    cout << Sum / N;
 
     return 0;
 }
